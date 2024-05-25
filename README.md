@@ -1,5 +1,6 @@
 # Discord Quest Completer
-The easiest way of completing discord quest
+The easiest way of completing discord quest <br>
+<a href='https://github.com/DM-09/Discord-Quest-Completer/blob/main/README-Ko.md'>- 한국어</a>
 
 ## Install
 #### Chrome
