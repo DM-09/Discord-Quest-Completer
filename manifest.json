@@ -1,0 +1,16 @@
+{ 
+    "name": "Discord Quest Completer",
+    "manifest_version": 2,
+    "description": "Complete your discord quest in easiest way!",
+    "background": {
+      "scripts": ["header.js"]
+     },
+    "browser_action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "48": "icon-48.png"
+    },
+    "version": "1.0.0",
+    "permissions": ["webRequest","webRequestBlocking","*://discord.com/*"]
+  }
